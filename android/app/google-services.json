@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "702535479061",
+    "project_id": "my-first-1e0fa",
+    "storage_bucket": "my-first-1e0fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702535479061:android:5c25c28b4b9b619798831c",
+        "android_client_info": {
+          "package_name": "com.kavish.house_help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702535479061-nb8ccimoll53tfvktvhecm1jp4pvn06o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kavish.house_help",
+            "certificate_hash": "29e645cbefe8af6b3296fb3b5d78a224ef9e9c0a"
+          }
+        },
+        {
+          "client_id": "702535479061-vqs1j8oc9t4kcr1s8qa9jdb3k3oh0hr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsaDCgXgsY_b1_t8wI4nHv3momRaPmD5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702535479061-vqs1j8oc9t4kcr1s8qa9jdb3k3oh0hr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
